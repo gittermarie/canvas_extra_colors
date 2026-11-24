@@ -1,20 +1,22 @@
 {
   "favorites": [
     {
-      "name": "red",
-      "color": "#ff0000"
+      "name": "magenta",
+      "color": "#ff006f"
     },
     {
       "id": "green",
-      "color": "#00ff00"
+      "color": "#5eff24",
+      "name": "poison"
     },
     {
       "id": "blue",
-      "color": "#0000ff"
+      "color": "#000080",
+      "name": "deepseek"
     }
   ],
   "history": [
-    "#84849a"
+    "#b0b0bf"
   ],
   "historyLength": 8,
   "colors": [
