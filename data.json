@@ -1,0 +1,30 @@
+{
+  "favorites": [
+    {
+      "name": "red",
+      "color": "#ff0000"
+    },
+    {
+      "id": "green",
+      "color": "#00ff00"
+    },
+    {
+      "id": "blue",
+      "color": "#0000ff"
+    }
+  ],
+  "history": [
+    "#84849a"
+  ],
+  "historyLength": 8,
+  "colors": [
+    "#a855f7",
+    "#d946ef",
+    "#ec4899",
+    "#f43f5e",
+    "#cbd5e1",
+    "#94a3b8",
+    "#64748b",
+    "#475569"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "id": "canvas-extra-colors",
+    "name": "Canvas Extra Colors",
+    "version": "1.0.0",
+    "minAppVersion": "1.8.0",
+    "description": "Adds additional favorite color swatches to the Canvas editor.",
+    "author": "ChatGPT",
+    "isDesktopOnly": false
+}
